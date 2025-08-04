@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 13:11:04</sys_created_on>
+        <sys_id>295596973b0362101c9f67b693e45aef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_wish_item.wishlist_user</sys_name>
+        <sys_package display_value="Wishlist" source="5ff452573b0362101c9f67b693e45aa5">5ff452573b0362101c9f67b693e45aa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">5ff452573b0362101c9f67b693e45aa5</sys_scope>
+        <sys_security_acl display_value="u_wish_item">255596973b0362101c9f67b693e45ae7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_295596973b0362101c9f67b693e45aef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 13:11:04</sys_updated_on>
+        <sys_user_role display_value="wishlist_user" name="wishlist_user">dbf452573b0362101c9f67b693e45aaf</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
